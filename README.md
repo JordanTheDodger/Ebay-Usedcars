@@ -1,5 +1,5 @@
 # Ebay-Usedcars
-A brief Data Analysis of Used cars 2019 Dataset for the predilectionfor automotives
+A brief Data Analysis of Used cars 2019 Dataset for the predilection of automotives selling pattern
 First Data Analysis shot, apologies for not being perfect.
 I have also attached a IEEE data analysis report.
 The link of dataset is in the report due to size issue.
